@@ -2,7 +2,7 @@
 A webpack ready version of the angular-easyfb
 
 # Usage
-ensure angular and webpack are properly setup in your environment. Then simple `clone` this report into your source and BOOM! Its ready to use!
+ensure angular and webpack are properly setup in your environment (use one of the webpack angular 1 boilerplate floating everywhere in the github). Then simple `clone` this report into your source and BOOM! Its ready to use!
 
 # Example
 
@@ -28,3 +28,5 @@ let myComponentModule = angular.module('theAppModuleItself', [
 export default myComponentModule;
 
 ````
+#Credit
+https://github.com/pc035860/angular-easyfb
